@@ -10,8 +10,6 @@ Every file here has the problem number in the name of the file, and has outlined
 
 Each of these tests are python files that are run with
 
-'''
-python3 <solution>.py
-'''
+`python3 <solution>.py`
 
 That's about it, if you really want to run or copy these solutions be my guest but they are not very optimized.
