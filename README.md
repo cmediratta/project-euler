@@ -1,6 +1,6 @@
 # Project Euler Solutions
 
-My solutions for Project Euler, a group of CS and mathematics problems outlined on https://projecteuler.net/. I am using these to learn how to write clean and readable python code.
+My solutions for Project Euler, a group of CS and mathematics problems outlined on https://projecteuler.net/. I am using these to learn how to write clean and readable python code. All of these solutions will be as general purpose and incorporating as possible, adding methods that solve for more general purpose applications of these problems.
 
 ## Format
 
