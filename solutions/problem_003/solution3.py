@@ -34,13 +34,11 @@ def find_largest_prime(number):
 
 def recursive_primefinder(current, min):
     max = math.sqrt(current) #Only compares what it needs to
-    print(current)
     while min <= max:
         if (current%min==0):
             return recursive_primefinder(current//min, min)
         min+=2 #We already checked for even factors so this only compares odds
     return current
-
 
 assert(find_largest_prime(600851475143)==6857)
 assert(find_largest_prime(142862533044391160)==16769023)
